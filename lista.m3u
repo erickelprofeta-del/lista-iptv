@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/pe.xml"
 
-#EXTINF:-1,group-title="Peru",Latina HD
+#EXTINF:-1 group-title="Peru",Latina HD
 http://190.61.43.115:45000/play/a08q/index.m3u8
 
 #EXTINF:-1 group-title="Peru",America TV HD
